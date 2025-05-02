@@ -29,7 +29,7 @@ git clone https://github.com/matu7e/telescorpio.git
 cd telescorpio
 
 # 2. Crear entorno virtual (recomendado)
-python -m venv venv
+python3 -m venv venv
 source venv/bin/activate  # Linux/Mac
 .\venv\Scripts\activate  # Windows
 
@@ -39,7 +39,7 @@ pip install -r requirements.txt
 # 4.🔐 Configuración de API
 
 1. Crea tu propio `API_ID` y `API_HASH` gratis en:
-https://my.telegram.org/auth
+[Telegram API](https://my.telegram.org/auth)
 
 2. Crea un archivo `.env` con:
 API_ID=TU_ID_AQUI
