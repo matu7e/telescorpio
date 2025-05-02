@@ -1,4 +1,4 @@
-# 🕵️ Telescorpio
+    # 🕵️ Telescorpio
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![Telethon](https://img.shields.io/badge/Telethon-1.25%2B-green)
@@ -39,7 +39,7 @@ pip install -r requirements.txt
 # 4.🔐 Configuración de API
 
 1. Crea tu propio `API_ID` y `API_HASH` gratis en:
-Ingresa a [Telegram API](https://my.telegram.org/auth)
+https://my.telegram.org/auth
 
 2. Crea un archivo `.env` con:
 API_ID=TU_ID_AQUI
