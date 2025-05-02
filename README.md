@@ -39,7 +39,7 @@ pip install -r requirements.txt
 # 4.🔐 Configuración de API
 
 1. Crea tu propio `API_ID` y `API_HASH` gratis en:
-[Telegram API](https://my.telegram.org/auth)
+Ingresa a [Telegram API](https://my.telegram.org/auth)
 
 2. Crea un archivo `.env` con:
 API_ID=TU_ID_AQUI
