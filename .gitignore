@@ -1,0 +1,5 @@
+env
+.env
+reportes
+osint_session.session
+osint_session.session-journal

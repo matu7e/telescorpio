@@ -1,0 +1,83 @@
+{
+  "total_links": 108,
+  "unique_domains": 53,
+  "most_common_domains": [
+    [
+      "eventbrite.com.ar",
+      15
+    ],
+    [
+      "youtube.com",
+      8
+    ],
+    [
+      "google.com",
+      6
+    ],
+    [
+      "youtu.be",
+      5
+    ],
+    [
+      "forms.gle",
+      4
+    ],
+    [
+      "github.com",
+      4
+    ],
+    [
+      "**\n\nhttps.",
+      4
+    ],
+    [
+      "flisol.org.ar",
+      3
+    ],
+    [
+      "udemy.com",
+      3
+    ],
+    [
+      "instagram.com",
+      3
+    ]
+  ],
+  "most_common_tlds": [
+    [
+      ".com",
+      46
+    ],
+    [
+      ".com.ar",
+      18
+    ],
+    [
+      ".",
+      13
+    ],
+    [
+      ".org",
+      7
+    ],
+    [
+      ".be",
+      5
+    ]
+  ],
+  "protocol_distribution": {
+    "tps": 2,
+    "https": 77,
+    "ttps": 3,
+    "s": 8,
+    "": 15,
+    "ps": 2,
+    "e.https": 1
+  },
+  "avg_path_length": 3.3055555555555554,
+  "suspicious_domains": [
+    "512kb.club"
+  ],
+  "suspicious_domain_count": 1,
+  "analysis_date": "2025-04-28T16:40:13.856664"
+}

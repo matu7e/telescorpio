@@ -1,0 +1,41 @@
+=== ANÁLISIS DE DOMINIOS ===
+
+📊 Total de enlaces analizados: 108
+🌐 Dominios únicos encontrados: 53
+⚠️ Dominios sospechosos detectados: 1
+
+
+TOP 10 DOMINIOS MÁS FRECUENTES:
+• eventbrite.com.ar: 15 enlaces
+• youtube.com: 8 enlaces
+• google.com: 6 enlaces
+• youtu.be: 5 enlaces
+• forms.gle: 4 enlaces
+• github.com: 4 enlaces
+• **
+
+https.: 4 enlaces
+• flisol.org.ar: 3 enlaces
+• udemy.com: 3 enlaces
+• instagram.com: 3 enlaces
+
+TOP 5 TLDs MÁS FRECUENTES:
+• .com: 46 enlaces
+• .com.ar: 18 enlaces
+• .: 13 enlaces
+• .org: 7 enlaces
+• .be: 5 enlaces
+
+DISTRIBUCIÓN DE PROTOCOLOS:
+• tps: 2 enlaces
+• https: 77 enlaces
+• ttps: 3 enlaces
+• s: 8 enlaces
+• : 15 enlaces
+• ps: 2 enlaces
+• e.https: 1 enlaces
+
+LONGITUD PROMEDIO DE PATH: 3.3
+
+🚨 DOMINIOS SOSPECHOSOS DETECTADOS:
+• 512kb.club (1 enlaces)
